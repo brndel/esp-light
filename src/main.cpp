@@ -282,7 +282,7 @@ void setup()
 
   wiFiMulti.addAP(ssid, password);
 
-  Serial.print("Connecting to WiFi")
+  Serial.print("Connecting to WiFi");
 
   while (wiFiMulti.run() != WL_CONNECTED)
   {
