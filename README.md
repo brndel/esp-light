@@ -1,11 +1,16 @@
 # Local Web Interface for LED strips controlled by ESP microcontroller
 An easy to use web iterface for adressable LED light strips controlled by an ESP microcontroller
 
+| Desktop | Mobile |
+| ------- | ------ |
+| <img width="1122" height="607" alt="Web interface on desktop devices" src="https://github.com/user-attachments/assets/713e594d-de61-4644-b553-2db95d87b55d" /> | <img width="404" height="778" alt="Web interface on mobile devices" src="https://github.com/user-attachments/assets/c2683450-f76c-4fa0-a3a6-2dba9d201d40" /> |
+
 # Features 
 - Zero config `.local` adress using [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS)
 - Easy to use web interface
   - Mobile friendly
-  - The web interface allows multiple concurrent connections and syncs them via websocket
+  - The web interface allows multiple
+ concurrent connections and syncs them via websocket
 - Light strip animations
 
 # Configuration
